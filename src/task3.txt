@@ -1,0 +1,182 @@
+{ raC ssalc etavirp
+;di tni etavirp    
+;dnarb gnirtS etavirp    
+;ledom gnirtS etavirp    
+;noitcudorPfOraey tni etavirp    
+;ruoloc gnirtS etavirp    
+;ecirp tni etavirp    
+;rebmuNretsiger tni etavirp    
+
+{ )rebmuNretsiger tni ,ecirp tni ,ruoloc gnirtS ,noitcudorPfOraey tni ,ledom gnirtS ,dnarb gnirtS ,di tni(raC etavirp    
+;di = di.siht        
+;dnarb = dnarb.siht        
+ ;ledom = ledom.siht         
+;noitcudorPfOraey = noitcudorPfOraey.siht        
+;ruoloc = ruoloc.siht        
+;ecirp = ecirp.siht        
+;rebmuNretsiger = rebmuNretsiger.siht        
+}        
+
+{ )rebmuNretsiger tni ,noitcudorPfOraey tni ,di tni(raC etavirp    
+;di = di.siht        
+;noitcudorPfOraey = noitcudorPfOraey.siht         
+;rebmuNretsiger = rebmuNretsiger.siht        
+}    
+
+{ )rebmuNretsiger tni ,noitcudorPfOraey tni ,ledom gnirtS ,di tni(raC etavirp    
+;di = di.siht        
+;ledom = ledom.siht         
+;noitcudorPfOraey = noitcudorPfOraey.siht        
+;rebmuNretsiger = rebmuNretsiger.siht        
+}    
+
+{ )rebmuNretsiger tni ,ecirp tni ,noitcudorPfOraey tni ,dnarb gnirtS ,di tni(raC etavirp    
+;di = di.siht        
+;dnarb = dnarb.siht        
+;noitcudorPfOraey = noitcudorPfOraey.siht        
+;ecirp = ecirp.siht        
+;rebmuNretsiger = rebmuNretsiger.siht        
+}    
+
+{ )ecirp tni(ecirPtes diov etavirp    
+;ecirp = ecirp.siht        
+}    
+
+{ )dnarb gnirtS(dnarBtes diov etavirp    
+;dnarb = dnarb.siht        
+}    
+
+{ )ledom gnirtS(ledoMtes diov etavirp    
+;ledom = ledom.siht        
+}    
+
+{ )noitcudorPfOraey tni(noitcudorPfOraeYtes diov etavirp    
+;noitcudorPfOraey = noitcudorPfOraey.siht        
+}    
+
+{ )rebmuNretsiger tni(rebmuNretsigeRtes diov etavirp    
+;rebmuNretsiger = rebmuNretsiger.siht        
+}    
+
+{ )di tni(dItes diov etavirp    
+;di = di.siht        
+}    
+
+{ )ruoloc gnirtS(ruoloCtes diov etavirp    
+;ruoloc = ruoloc.siht        
+}    
+
+{ )(dIteg tni etavirp    
+;di nruter        
+}    
+
+{ )(dnarBteg gnirtS etavirp    
+;dnarb nruter        
+}    
+
+{ )(ledoMteg gnirtS etavirp    
+;ledom nruter        
+}    
+
+{ )(noitcudorPfOraeYteg tni etavirp    
+;noitcudorPfOraey nruter        
+}    
+
+{ )(ruoloCteg gnirtS etavirp    
+;ruoloc nruter        
+}    
+
+{ )(ecirPteg tni etavirp    
+;ecirp nruter        
+}    
+
+{ )(rebmuNretsigeRteg tni etavirp    
+;rebmuNretsiger nruter        
+}    
+
+edirrevO@    
+{ )(gnirtSot gnirtS etavirp    
++ "{raC" nruter        
++ di + "=di"                
++ ''\' + dnarb + "'=dnarb ,"                
++ ''\' + ledom + "'=ledom ,"                
++ noitcudorPfOraey + "=noitcudorPfOraey ,"                
++ ''\' + ruoloc + "'=ruoloc ,"                
++ ecirp + "=ecirp ,"                
++ rebmuNretsiger + "=rebmuNretsiger ,"                
+;'}'                
+}    
+
+
+}
+{ )ecirp tni(ecirPtes diov etavirp    
+;ecirp = ecirp.siht        
+}    
+
+{ )dnarb gnirtS(dnarBtes diov etavirp    
+;dnarb = dnarb.siht        
+}    
+
+{ )ledom gnirtS(ledoMtes diov etavirp    
+;ledom = ledom.siht        
+}    
+
+{ )noitcudorPfOraey tni(noitcudorPfOraeYtes diov etavirp    
+;noitcudorPfOraey = noitcudorPfOraey.siht        
+}    
+
+{ )rebmuNretsiger tni(rebmuNretsigeRtes diov etavirp    
+;rebmuNretsiger = rebmuNretsiger.siht        
+}    
+
+{ )di tni(dItes diov etavirp    
+;di = di.siht        
+}    
+
+{ )ruoloc gnirtS(ruoloCtes diov etavirp    
+;ruoloc = ruoloc.siht        
+}    
+
+{ )(dIteg tni etavirp    
+;di nruter        
+}    
+
+{ )(dnarBteg gnirtS etavirp    
+;dnarb nruter        
+}    
+
+{ )(ledoMteg gnirtS etavirp    
+;ledom nruter        
+}    
+
+{ )(noitcudorPfOraeYteg tni etavirp    
+;noitcudorPfOraey nruter        
+}    
+
+{ )(ruoloCteg gnirtS etavirp    
+;ruoloc nruter        
+}    
+
+{ )(ecirPteg tni etavirp    
+;ecirp nruter        
+}    
+
+{ )(rebmuNretsigeRteg tni etavirp    
+;rebmuNretsiger nruter        
+}    
+
+edirrevO@    
+{ )(gnirtSot gnirtS etavirp    
++ "{raC" nruter        
++ di + "=di"                
++ ''\' + dnarb + "'=dnarb ,"                
++ ''\' + ledom + "'=ledom ,"                
++ noitcudorPfOraey + "=noitcudorPfOraey ,"                
++ ''\' + ruoloc + "'=ruoloc ,"                
++ ecirp + "=ecirp ,"                
++ rebmuNretsiger + "=rebmuNretsiger ,"                
+;'}'                
+}    
+
+
+}

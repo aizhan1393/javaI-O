@@ -8,12 +8,12 @@ public class task1 {
 
     public static void main(String[] args) throws IOException {
         //1
-       File file = new File("C:\\Users\\77751\\Documents\\epam\\stage-2\\javaI\\O\\test.txt");
+       File file = new File("src/test.txt");
         FileWriter writer = new FileWriter(file);
         int[] array = new int[10];
        for(int i = 0; i < 10; i++) {
            int x = (int) (Math.random()*(200+1))-100;
-           System.out.println(x);
+           //System.out.println(x);
            array[i] = x;
            //writer.write(String.valueOf(x) + " ");
        }
